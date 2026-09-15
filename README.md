@@ -1,3 +1,31 @@
+Quebrar Lealdade Inabalável (Break Unwavering Loyalty)
+
+Adiciona uma nova opção de interação com prisioneiros: "Quebrar lealdade inabalável". Quando selecionada em um prisioneiro com Lealdade Inabalável, os carcereiros (wardens) conversaram com ele. Cada conversa tem uma chance de quebrar sua lealdade inabalável (base de 18%, aumentada pela habilidade Social do carcereiro e pelo humor do prisioneiro).
+
+Quando a lealdade é quebrada:
+
+O prisioneiro passa a ser recrutável.
+
+Ele ganha uma resistência inicial (de 10 a 20) e você recebe uma carta de notificação.
+
+Depois disso, você pode mudar a opção dele para o recrutamento normal ou Reduzir Resistência como de costume.
+
+Como usar:
+
+Capture um prisioneiro com Lealdade Inabalável.
+
+Abra a aba Prisioneiro dele.
+
+Selecione Quebrar lealdade inabalável.
+
+Designe colonos e aguarde até que conversem com ele.
+
+Requisitos: Requer o mod Harmony.
+
+Compatibilidade: Compatível com o RimWorld 1.5 e 1.6.
+
+English Version:
+
 Break Unwavering Loyalty
 
 Adds a new prisoner interaction option: "Break unwavering loyalty".
