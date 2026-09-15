@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <PrisonerInteractionModeDef>
+    <defName>BreakUnwaveringLoyalty</defName>
+    <label>break unwavering loyalty</label>
+    <description>Wardens will attempt to break the prisoner's unwavering loyalty through repeated conversations, making them recruitable.</description>
+    <listOrder>25</listOrder>
+    <hideIfNoBloodfeeders>false</hideIfNoBloodfeeders>
+  </PrisonerInteractionModeDef>
+
+</Defs>
