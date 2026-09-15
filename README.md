@@ -1,6 +1,6 @@
 Quebrar Lealdade Inabalável (Break Unwavering Loyalty)
 
-Adiciona uma nova opção de interação com prisioneiros: "Quebrar lealdade inabalável". Quando selecionada em um prisioneiro com Lealdade Inabalável, os carcereiros (wardens) conversaram com ele. Cada conversa tem uma chance de quebrar sua lealdade inabalável (base de 18%, aumentada pela habilidade Social do carcereiro e pelo humor do prisioneiro).
+Adiciona uma nova opção de interação com prisioneiros: "Quebrar lealdade inabalável". Quando selecionada em um prisioneiro com Lealdade Inabalável, os colonos conversaram com ele. Cada conversa tem uma chance de quebrar sua lealdade inabalável (base de 18%, aumentada pela habilidade Social do carcereiro e pelo humor do prisioneiro).
 
 Quando a lealdade é quebrada:
 
