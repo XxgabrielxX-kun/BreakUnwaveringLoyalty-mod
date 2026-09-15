@@ -29,7 +29,7 @@ English Version:
 Break Unwavering Loyalty
 
 Adds a new prisoner interaction option: "Break unwavering loyalty".
-When selected on an Unwaveringly Loyal prisoner, wardens will chat with them. Each conversation has a chance to break their unwavering loyalty (base 18%, increased by the warden's Social skill and the prisoner's mood).
+When selected on an Unwaveringly Loyal prisoner, colonist will chat with them. Each conversation has a chance to break their unwavering loyalty (base 18%, increased by the colonist Social skill and the prisoner's mood).
 
 Once broken:
 
@@ -43,7 +43,7 @@ How to use:
 Capture an Unwaveringly Loyal prisoner
 Open their Prisoner tab
 Select Break unwavering loyalty
-Assign wardens and wait for them to talk
+Assign colonists and wait for them to talk
 
 Requires Harmony.
 
