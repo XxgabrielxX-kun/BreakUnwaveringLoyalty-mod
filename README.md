@@ -41,8 +41,11 @@ After that, you can switch them to normal Recruit / Reduce Resistance as usual.
 How to use:
 
 Capture an Unwaveringly Loyal prisoner
+
 Open their Prisoner tab
+
 Select Break unwavering loyalty
+
 Assign colonists and wait for them to talk
 
 Requires Harmony.
