@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>BreakUnwaveringLoyalty</identifier>
+  <version>1.0.0</version>
+  <dependencies>
+    <li>brrainz.harmony</li>
+  </dependencies>
+  <incompatibleWith>
+  </incompatibleWith>
+  <loadBefore>
+  </loadBefore>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <targetVersions>
+    <li>1.5</li>
+    <li>1.6</li>
+  </targetVersions>
+</Manifest>
