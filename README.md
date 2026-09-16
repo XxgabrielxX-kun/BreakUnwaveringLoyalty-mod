@@ -1,4 +1,5 @@
 <img width="480" height="110" alt="803-1789504416-1151254082" src="https://github.com/user-attachments/assets/326c34ba-2dbd-401b-949b-d7d764d5b427" />
+
 Quebrar Lealdade Inabalável (Break Unwavering Loyalty)
 
 Adiciona uma nova opção de interação com prisioneiros: "Quebrar lealdade inabalável". Quando selecionada em um prisioneiro com Lealdade Inabalável, os colonos conversaram com ele. Cada conversa tem uma chance de quebrar sua lealdade inabalável (base de 18%, aumentada pela habilidade Social do colono e pelo humor do prisioneiro).
