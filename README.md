@@ -29,6 +29,7 @@ English Version:
 Shattered Loyalty introduces a new warden interaction mode: Break Loyalty. When a prisoner's resistance reaches zero, their Unwavering Loyalty status is stripped away, allowing them to be recruited. However, breaking a pawn's mind comes with severe, permanent psychological consequences.
 
 ✨ New Features & Changes (Update 2.1)
+
 Guaranteed Passion Loss: Upon having their loyalty broken, the prisoner will always lose their skill passions (flames). The loss of drive and interest in their former passions is now a guaranteed outcome of the interrogation process.
 
 Temporary Catatonic Breakdown: The sheer strain forces the prisoner into a catatonic state for 1 to 3 days immediately after breaking.
