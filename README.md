@@ -1,62 +1,42 @@
 <img width="480" height="110" alt="803-1789504416-1151254082" src="https://github.com/user-attachments/assets/326c34ba-2dbd-401b-949b-d7d764d5b427" />
 
-🧠 Shattered Loyalty (Lealdade Estilhaçada)
+Shattered Loyalty
 
-"Algumas mentes não foram feitas para serem convencidas... elas precisam ser quebradas."
+Um mod para RimWorld que permite quebrar a Lealdade Inabalável (Unwaveringly Loyal) de prisioneiros através de interrogatórios intensos, ao custo de sequelas psicológicas permanentes.
 
-Shattered Loyalty traz uma abordagem mais sombria, realista e visceral para o sistema de prisioneiros do RimWorld. Você já capturou aquele prisioneiro perfeito, com habilidades incríveis, mas teve seus planos frustrados porque ele possui a característica "Lealdade Inabalável" (Unwaveringly Loyal)?
+O Shattered Loyalty introduz uma nova opção de interação para carcereiros: Quebrar Lealdade. Quando a resistência do prisioneiro atinge zero, sua lealdade inabalável é removida, permitindo que ele seja finalmente recrutado. No entanto, o processo deixa marcas profundas na mente do indivíduo.
 
-Este mod introduz um novo método de interação que permite aos seus carcereiros destruírem progressivamente a determinação de qualquer prisioneiro inabalável, ao custo de sequelas traumáticas e permanentes para o alvo.
+✨ Novas Mecânicas (Atualização 2.1)
 
-🛠️ Como Funciona?
-Nova Opção de Prisioneiro: Na aba de interação com o prisioneiro, selecione o novo modo "Quebrar Lealdade".
+Remoção de Paixões Garantida: Ao ter a mente quebrada, o prisioneiro sempre perderá suas paixões (foguinhos) nas habilidades. A perda de interesse em suas antigas vocações agora é um efeito certo e inevitável da quebra psicológica.
 
-Processo do Carcereiro: O seu colonizador designado para o trabalho de Warden (Carcereiro) visitará o prisioneiro periodicamente. A cada sessão de interrogatório e pressão psicológica, a barra de resistência do prisioneiro diminuirá gradualmente com base na Habilidade de Negociação do carcereiro.
+Colapso Catatônico Temporário: O impacto do interrogatório faz o prisioneiro entrar em um estado de catatonia por 1 a 3 dias assim que cede à pressão.
 
-Colapso Mental e Consequências: Quando a resistência chegar a zero, a lealdade inabalável é estilhaçada para sempre e o prisioneiro se torna recrutável! No entanto, o processo cobra seu preço:
+Novo Traço — Mente Fraturada:
 
-🧠 Colapso Catatônico: O prisioneiro entra imediatamente em um estado de colapso catatônico pelo choque mental.
+Bomba-Relógio de Surtos: O Limiar de Surto Mental (MentalBreakThreshold) é aumentado drasticamente em +50%. Ex-prisioneiros tornam-se extremamente instáveis e propensos a ataques de raiva ou surtos violentos com qualquer estresse leve.
 
-🔥 Perda de Paixões: Há 50% de chance para cada habilidade do prisioneiro ter sua paixão (os ícones de fogo) permanentemente apagada.
+Dificuldade de Aprendizado: Redução na velocidade global de aprendizado (GlobalLearningFactor), refletindo os danos cognitivos permanentes.
 
-🎭 Traço Mente Fraturada: O prisioneiro adquire o traço Mente Fraturada.
+Compatibilidade Atualizada: Totalmente funcional e adaptado para as versões 1.5 e 1.6 do RimWorld.
 
-📬 Notificação de Evento: Você receberá uma carta detalhada confirmando o sucesso da quebra da lealdade e os danos neurológicos causados.
-
-📋 Requisitos
-
-RimWorld (Versão 1.5/1.6)
-
-Mod Harmony
-
+-------------------
 
 English Version:
 
-🧠 Shattered Loyalty
+📖 About the Mod
 
-"Some minds were never meant to be convinced... they must be broken."
+Shattered Loyalty introduces a new warden interaction mode: Break Loyalty. When a prisoner's resistance reaches zero, their Unwavering Loyalty status is stripped away, allowing them to be recruited. However, breaking a pawn's mind comes with severe, permanent psychological consequences.
 
-Shattered Loyalty introduces a darker, more realistic, and visceral approach to RimWorld's prisoner system. Have you ever captured the perfect pawn with incredible skills, only to have your plans ruined because they have the "Unwaveringly Loyal" trait?
+✨ New Features & Changes (Update 2.1)
+Guaranteed Passion Loss: Upon having their loyalty broken, the prisoner will always lose their skill passions (flames). The loss of drive and interest in their former passions is now a guaranteed outcome of the interrogation process.
 
-This mod adds a new interaction method that allows your wardens to progressively shatter the determination of any unwavering prisoner—at the cost of traumatic, permanent consequences for the target.
+Temporary Catatonic Breakdown: The sheer strain forces the prisoner into a catatonic state for 1 to 3 days immediately after breaking.
 
-🛠️ How It Works
-New Prisoner Option: On the prisoner interaction tab, select the new "Shatter Loyalty" mode.
+New Trait — Shattered Mind:
 
-Warden Routine: Your designated warden will periodically visit the prisoner. With each interrogation session and psychological pressure, the prisoner's resistance decreases based on the warden's Negotiation Ability.
+Mental Break Powder Keg: Increases the Mental Break Threshold (MentalBreakThreshold) by +50%. Recruited pawns become highly volatile and prone to berserk or rage breaks under minor stress.
 
-Mental Collapse & Aftermath: Once resistance reaches zero, their unwavering loyalty is broken forever, making them recruitable! However, the process takes a heavy toll:
+Impaired Learning: Reduces overall learning speed (GlobalLearningFactor), leaving a permanent cognitive scar.
 
-🧠 Catatonic Breakdown: The prisoner immediately enters a catatonic state from the mental shock.
-
-🔥 Loss of Passions: Each skill has a 50% chance to lose its passion (flame icons) permanently.
-
-🎭 Fractured Mind Trait: The prisoner gains the Fractured Mind trait.
-
-📬 Event Letter: You will receive a detailed notification letter confirming the broken loyalty and the resulting neurological damage.
-
-📋 Requirements
-
-RimWorld (Version 1.5 / 1.6)
-
-Mod Harmony
+Full 1.5 & 1.6 Compatibility: Fully updated and tested to work seamlessly with recent base game updates.
