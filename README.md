@@ -1,30 +1,33 @@
 <img width="480" height="110" alt="803-1789504416-1151254082" src="https://github.com/user-attachments/assets/326c34ba-2dbd-401b-949b-d7d764d5b427" />
 
-Quebrar Lealdade Inabalável (Break Unwavering Loyalty)
+🧠 Shattered Loyalty (Lealdade Estilhaçada)
 
-Adiciona uma nova opção de interação com prisioneiros: "Quebrar lealdade inabalável". Quando selecionada em um prisioneiro com Lealdade Inabalável, os colonos conversaram com ele. Cada conversa tem uma chance de quebrar sua lealdade inabalável (base de 18%, aumentada pela habilidade Social do colono e pelo humor do prisioneiro).
+"Algumas mentes não foram feitas para serem convencidas... elas precisam ser quebradas."
 
-Quando a lealdade é quebrada:
+Shattered Loyalty traz uma abordagem mais sombria, realista e visceral para o sistema de prisioneiros do RimWorld. Você já capturou aquele prisioneiro perfeito, com habilidades incríveis, mas teve seus planos frustrados porque ele possui a característica "Lealdade Inabalável" (Unwaveringly Loyal)?
 
-O prisioneiro passa a ser recrutável.
+Este mod introduz um novo método de interação que permite aos seus carcereiros destruírem progressivamente a determinação de qualquer prisioneiro inabalável, ao custo de sequelas traumáticas e permanentes para o alvo.
 
-Ele ganha uma resistência inicial (de 10 a 20) e você recebe uma carta de notificação.
+🛠️ Como Funciona?
+Nova Opção de Prisioneiro: Na aba de interação com o prisioneiro, selecione o novo modo "Quebrar Lealdade".
 
-Depois disso, você pode mudar a opção dele para o recrutamento normal ou Reduzir Resistência como de costume.
+Processo do Carcereiro: O seu colonizador designado para o trabalho de Warden (Carcereiro) visitará o prisioneiro periodicamente. A cada sessão de interrogatório e pressão psicológica, a barra de resistência do prisioneiro diminuirá gradualmente com base na Habilidade de Negociação do carcereiro.
 
-Como usar:
+Colapso Mental e Consequências: Quando a resistência chegar a zero, a lealdade inabalável é estilhaçada para sempre e o prisioneiro se torna recrutável! No entanto, o processo cobra seu preço:
 
-Capture um prisioneiro com Lealdade Inabalável.
+🧠 Colapso Catatônico: O prisioneiro entra imediatamente em um estado de colapso catatônico pelo choque mental.
 
-Abra a aba Prisioneiro dele.
+🔥 Perda de Paixões: Há 50% de chance para cada habilidade do prisioneiro ter sua paixão (os ícones de fogo) permanentemente apagada.
 
-Selecione Quebrar lealdade inabalável.
+🎭 Traço Mente Fraturada: O prisioneiro adquire o traço Mente Fraturada.
 
-Designe colonos e aguarde até que conversem com ele.
+📬 Notificação de Evento: Você receberá uma carta detalhada confirmando o sucesso da quebra da lealdade e os danos neurológicos causados.
 
-Requisitos: Requer o mod Harmony.
+📋 Requisitos
+RimWorld (Versão 1.5/1.6)
 
-Compatibilidade: Compatível com o RimWorld 1.5 e 1.6.
+Mod Harmony
+
 
 English Version:
 
