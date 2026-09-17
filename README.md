@@ -24,6 +24,7 @@ Colapso Mental e Consequências: Quando a resistência chegar a zero, a lealdade
 📬 Notificação de Evento: Você receberá uma carta detalhada confirmando o sucesso da quebra da lealdade e os danos neurológicos causados.
 
 📋 Requisitos
+
 RimWorld (Versão 1.5/1.6)
 
 Mod Harmony
