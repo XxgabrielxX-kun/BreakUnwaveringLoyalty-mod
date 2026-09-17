@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<Defs>
-  <JobDef>
-    <defName>Job_QuebrarLealdade</defName>
-    <driverClass>ShatteredLoyalty.JobDriver_QuebrarLealdade</driverClass>
-    <reportString>quebrando a lealdade de TargetA.</reportString>
-    <casualInterruptible>false</casualInterruptible>
-  </JobDef>
-</Defs>
