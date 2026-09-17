@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <TraitDef>
+    <defName>MenteFraturada</defName>
+    <commonality>0</commonality>
+    <degreeDatas>
+      <li>
+        <label>mente fraturada</label>
+        <description>A mente deste indivíduo foi completamente quebrada por métodos brutais de interrogatório. Eles são permanentemente instáveis, voláteis e propensos a surtos violentos ao menor sinal de estresse.</description>
+        <statFactors>
+          <MentalBreakThreshold>1.5</MentalBreakThreshold> <!-- Sobe de 1.3 para 1.5 (muito mais fácil de surtar!) -->
+          <GlobalLearningFactor>0.4</GlobalLearningFactor> <!-- Aprendizado ainda mais lento -->
+        </statFactors>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+</Defs>
