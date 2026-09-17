@@ -31,28 +31,31 @@ Mod Harmony
 
 English Version:
 
-Break Unwavering Loyalty
+🧠 Shattered Loyalty
 
-Adds a new prisoner interaction option: "Break unwavering loyalty".
-When selected on an Unwaveringly Loyal prisoner, colonist will chat with them. Each conversation has a chance to break their unwavering loyalty (base 18%, increased by the colonist Social skill and the prisoner's mood).
+"Some minds were never meant to be convinced... they must be broken."
 
-Once broken:
+Shattered Loyalty introduces a darker, more realistic, and visceral approach to RimWorld's prisoner system. Have you ever captured the perfect pawn with incredible skills, only to have your plans ruined because they have the "Unwaveringly Loyal" trait?
 
-The prisoner becomes recruitable
-They receive a starting resistance (10–20), you get a letter notifying you.
+This mod adds a new interaction method that allows your wardens to progressively shatter the determination of any unwavering prisoner—at the cost of traumatic, permanent consequences for the target.
 
-After that, you can switch them to normal Recruit / Reduce Resistance as usual.
+🛠️ How It Works
+New Prisoner Option: On the prisoner interaction tab, select the new "Shatter Loyalty" mode.
 
-How to use:
+Warden Routine: Your designated warden will periodically visit the prisoner. With each interrogation session and psychological pressure, the prisoner's resistance decreases based on the warden's Negotiation Ability.
 
-Capture an Unwaveringly Loyal prisoner
+Mental Collapse & Aftermath: Once resistance reaches zero, their unwavering loyalty is broken forever, making them recruitable! However, the process takes a heavy toll:
 
-Open their Prisoner tab
+🧠 Catatonic Breakdown: The prisoner immediately enters a catatonic state from the mental shock.
 
-Select Break unwavering loyalty
+🔥 Loss of Passions: Each skill has a 50% chance to lose its passion (flame icons) permanently.
 
-Assign colonists and wait for them to talk
+🎭 Fractured Mind Trait: The prisoner gains the Fractured Mind trait.
 
-Requires Harmony.
+📬 Event Letter: You will receive a detailed notification letter confirming the broken loyalty and the resulting neurological damage.
 
-Compatible with RimWorld 1.5 and 1.6.
+📋 Requirements
+
+RimWorld (Version 1.5 / 1.6)
+
+Mod Harmony
