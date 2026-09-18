@@ -6,7 +6,7 @@ Um mod para RimWorld que permite quebrar a Lealdade Inabalável (Unwaveringly Lo
 
 O Shattered Loyalty introduz uma nova opção de interação para carcereiros: Quebrar Lealdade. Quando a resistência do prisioneiro atinge zero, sua lealdade inabalável é removida, permitindo que ele seja finalmente recrutado. No entanto, o processo deixa marcas profundas na mente do indivíduo.
 
-✨ Novidades(Atualização 2.2):
+✨ Novidades (Atualização 2.2):
 
 Menu de Configurações Dedicado: Adicionado um menu completo nas opções do jogo. Agora é possível personalizar a experiência do mod diretamente, ajustando:
 
@@ -26,16 +26,14 @@ English Version:
 
 Shattered Loyalty introduces a new warden interaction mode: Break Loyalty. When a prisoner's resistance reaches zero, their Unwavering Loyalty status is stripped away, allowing them to be recruited. However, breaking a pawn's mind comes with severe, permanent psychological consequences.
 
-✨ New Features & Changes (Update 2.1)
+✨ New Features (Update 2.2):
 
-Guaranteed Passion Loss: Upon having their loyalty broken, the prisoner will always lose their skill passions (flames). The loss of drive and interest in their former passions is now a guaranteed outcome of the interrogation process.
+Dedicated Settings Menu: A full configuration menu has been added to the game options. You can now customize your mod experience directly by toggling or adjusting:
 
-Temporary Catatonic Breakdown: The sheer strain forces the prisoner into a catatonic state for 1 to 3 days immediately after breaking.
+Enable or disable the loss of prisoner passions;
 
-New Trait — Shattered Mind:
+Enable or disable gaining the custom trait;
 
-Mental Break Powder Keg: Increases the Mental Break Threshold (MentalBreakThreshold) by +50%. Recruited pawns become highly volatile and prone to berserk or rage breaks under minor stress.
+Enable or disable catatonic breakdowns upon breaking loyalty;
 
-Impaired Learning: Reduces overall learning speed (GlobalLearningFactor), leaving a permanent cognitive scar.
-
-Full 1.5 & 1.6 Compatibility: Fully updated and tested to work seamlessly with recent base game updates.
+Freely adjust the resistance break speed multiplier.
