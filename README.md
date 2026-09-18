@@ -24,6 +24,10 @@ English Version:
 
 📖 About the Mod
 
+Shattered Loyalty
+
+A RimWorld mod that allows players to break the Unwaveringly Loyal trait of prisoners through intense interrogations, at the cost of permanent psychological trauma.
+
 Shattered Loyalty introduces a new warden interaction mode: Break Loyalty. When a prisoner's resistance reaches zero, their Unwavering Loyalty status is stripped away, allowing them to be recruited. However, breaking a pawn's mind comes with severe, permanent psychological consequences.
 
 ✨ New Features (Update 2.2):
