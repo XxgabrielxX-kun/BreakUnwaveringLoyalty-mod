@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Menu Settings -->
+  <ShatteredLoyalty_LosePassions>Destruir paixões (foguinhos)</ShatteredLoyalty_LosePassions>
+  <ShatteredLoyalty_LosePassionsDesc>Se ativado, o prisioneiro tem 50% de chance de perder cada paixão quando a lealdade quebrar.</ShatteredLoyalty_LosePassionsDesc>
+  
+  <ShatteredLoyalty_GainTrait>Aplicar traço 'Mente Fraturada'</ShatteredLoyalty_GainTrait>
+  <ShatteredLoyalty_GainTraitDesc>Se ativado, o prisioneiro ganha um traço permanente que o deixa altamente instável.</ShatteredLoyalty_GainTraitDesc>
+  
+  <ShatteredLoyalty_ApplyCatatonia>Aplicar Colapso Catatônico</ShatteredLoyalty_ApplyCatatonia>
+  <ShatteredLoyalty_ApplyCatatoniaDesc>Se ativado, o prisioneiro entra em catatonia logo após a quebra da mente.</ShatteredLoyalty_ApplyCatatoniaDesc>
+  
+  <ShatteredLoyalty_BreakSpeed>Velocidade de Quebra da Resistência: {0}x</ShatteredLoyalty_BreakSpeed>
+  <ShatteredLoyalty_BreakSpeedDesc>Dica: Valores menores (ex: 0.5) tornam o interrogatório mais demorado, difícil e realista.</ShatteredLoyalty_BreakSpeedDesc>
+
+</LanguageData>
