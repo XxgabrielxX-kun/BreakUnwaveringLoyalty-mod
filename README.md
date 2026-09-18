@@ -6,19 +6,17 @@ Um mod para RimWorld que permite quebrar a Lealdade Inabalável (Unwaveringly Lo
 
 O Shattered Loyalty introduz uma nova opção de interação para carcereiros: Quebrar Lealdade. Quando a resistência do prisioneiro atinge zero, sua lealdade inabalável é removida, permitindo que ele seja finalmente recrutado. No entanto, o processo deixa marcas profundas na mente do indivíduo.
 
-✨ Novas Mecânicas (Atualização 2.1)
+✨ Novidades(Atualização 2.2):
 
-Remoção de Paixões Garantida: Ao ter a mente quebrada, o prisioneiro sempre perderá suas paixões (foguinhos) nas habilidades. A perda de interesse em suas antigas vocações agora é um efeito certo e inevitável da quebra psicológica.
+Menu de Configurações Dedicado: Adicionado um menu completo nas opções do jogo. Agora é possível personalizar a experiência do mod diretamente, ajustando:
 
-Colapso Catatônico Temporário: O impacto do interrogatório faz o prisioneiro entrar em um estado de catatonia por 1 a 3 dias assim que cede à pressão.
+Ativar ou desativar a perda de paixões dos prisioneiros;
 
-Novo Traço — Mente Fraturada:
+Ativar ou desativar o ganho do traço exclusivo;
 
-Bomba-Relógio de Surtos: O Limiar de Surto Mental (MentalBreakThreshold) é aumentado drasticamente em +50%. Ex-prisioneiros tornam-se extremamente instáveis e propensos a ataques de raiva ou surtos violentos com qualquer estresse leve.
+Ativar ou desativar o colapso catatônico ao quebrar a lealdade;
 
-Dificuldade de Aprendizado: Redução na velocidade global de aprendizado (GlobalLearningFactor), refletindo os danos cognitivos permanentes.
-
-Compatibilidade Atualizada: Totalmente funcional e adaptado para as versões 1.5 e 1.6 do RimWorld.
+Ajustar livremente o multiplicador de velocidade de quebra da resistência.
 
 -------------------
 
