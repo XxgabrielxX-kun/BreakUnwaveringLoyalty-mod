@@ -1,3 +1,6 @@
+<img width="480" height="110" alt="652667695-326c34ba-2dbd-401b-949b-d7d764d5b427" src="https://github.com/user-attachments/assets/6cd51fe8-c4ce-49d3-8773-522eb75ea815" />
+
+
 Break Unwavering Loyalty
 
 Um mod para RimWorld que permite quebrar a Lealdade Inabalável (Unwaveringly Loyal) de prisioneiros através de interrogatórios intensos, ao custo de sequelas psicológicas permanentes.
