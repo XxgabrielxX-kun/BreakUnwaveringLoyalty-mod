@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <!-- 1. O TRAÇO (Ajustado para usar offsets) -->
+  <TraitDef>
+    <defName>MenteFraturada</defName>
+    <commonality>1</commonality>
+    <degreeDatas>
+      <li>
+        <degree>0</degree>
+        <label>mente fraturada</label>
+        <description>A mente deste indivíduo foi completamente quebrada por métodos brutais de interrogatório. Eles são permanentemente instáveis, voláteis e propensos a surtos violentos ao menor sinal de estresse.</description>
+        
+        <!-- statOffsets soma ao valor base. 0.20 significa +20% na linha de surto. -->
+        <!-- Se o peão quebrava aos 35% de humor, agora quebra aos 55%. -->
+        <statOffsets>
+          <MentalBreakThreshold>0.20</MentalBreakThreshold>
+        </statOffsets>
+        
+        <!-- Mantemos o GlobalLearningFactor nos fatores pois é um multiplicador de velocidade -->
+        <statFactors>
+          <GlobalLearningFactor>0.4</GlobalLearningFactor>
+        </statFactors>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+
+  <!-- 2. O PENSAMENTO (Para aparecer na barra de Necessidades) -->
+  <ThoughtDef>
+    <defName>Thought_MenteFraturada</defName>
+    <workerClass>ThoughtWorker_AlwaysActive</workerClass>
+    <validWhileDespawned>true</validWhileDespawned>
+    <!-- Isto liga o pensamento diretamente ao seu traço -->
+    <requiredTraits>
+      <li>MenteFraturada</li>
+    </requiredTraits>
+    <stages>
+      <li>
+        <label>mente fraturada</label>
+        <description>Tudo está confuso... eu fui quebrado. Não consigo aguentar a pressão.</description>
+        <!-- Penalidade permanente de humor. Ajuda a empurrar o humor para baixo da linha de surto. -->
+        <baseMoodEffect>-15</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>

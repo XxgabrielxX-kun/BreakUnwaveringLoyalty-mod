@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <PrisonerInteractionModeDef>
+    <defName>QuebrarLealdade</defName>
+    <label>quebrar lealdade</label>
+    <description>O carcereiro tentará desconstruir psicologicamente a lealdade inabalável deste prisioneiro.\n\nÉ um processo árduo. Quando a resistência chegar a zero, o prisioneiro perderá sua lealdade, mas sofrerá danos permanentes (Mente Fraturada, perda de vontades) e entrará em catatonia.</description>
+    <listOrder>60</listOrder>
+  </PrisonerInteractionModeDef>
+</Defs>

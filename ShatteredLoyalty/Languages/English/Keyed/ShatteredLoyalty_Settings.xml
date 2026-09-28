@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Menu Settings -->
+  <ShatteredLoyalty_LosePassions>Destroy passions (flames)</ShatteredLoyalty_LosePassions>
+  <ShatteredLoyalty_LosePassionsDesc>If enabled, the prisoner has a 50% chance to lose each passion when their loyalty breaks.</ShatteredLoyalty_LosePassionsDesc>
+  
+  <ShatteredLoyalty_GainTrait>Apply 'Shattered Mind' trait</ShatteredLoyalty_GainTrait>
+  <ShatteredLoyalty_GainTraitDesc>If enabled, the prisoner gains a permanent trait that makes them highly unstable.</ShatteredLoyalty_GainTraitDesc>
+  
+  <ShatteredLoyalty_ApplyCatatonia>Apply Catatonic Breakdown</ShatteredLoyalty_ApplyCatatonia>
+  <ShatteredLoyalty_ApplyCatatoniaDesc>If enabled, the prisoner falls into catatonia right after their mind breaks.</ShatteredLoyalty_ApplyCatatoniaDesc>
+  
+  <ShatteredLoyalty_BreakSpeed>Resistance Break Speed: {0}x</ShatteredLoyalty_BreakSpeed>
+  <ShatteredLoyalty_BreakSpeedDesc>Tip: Lower values (e.g. 0.5) make the interrogation longer, harder, and more realistic.</ShatteredLoyalty_BreakSpeedDesc>
+
+</LanguageData>

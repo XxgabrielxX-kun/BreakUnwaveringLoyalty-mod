@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <WorkGiverDef>
+    <defName>WorkGiver_BreakLoyalty</defName>
+    <label>quebrar lealdade</label>
+    <giverClass>ShatteredLoyalty.WorkGiver_Warden_BreakLoyalty</giverClass>
+    <workType>Warden</workType>
+    <verb>conversar com</verb>
+    <gerund>conversando com</gerund>
+    <priorityInType>80</priorityInType>
+    <requiredCapacities>
+      <li>Talking</li>
+      <li>Hearing</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+</Defs>
