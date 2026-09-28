@@ -15,6 +15,8 @@ A destruição da vontade do prisioneiro deixou de ser "de graça". Ao ter sua l
 
 🎭 Traço Mente Fraturada: Ganho permanente do traço de personalidade que reflete a mente destruída.
 
+-------------------------
+
 English Version:
 
 📖 About the Mod
