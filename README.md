@@ -1,4 +1,4 @@
-<img width="480" height="110" alt="652667695-326c34ba-2dbd-401b-949b-d7d764d5b427" src="https://github.com/user-attachments/assets/6cd51fe8-c4ce-49d3-8773-522eb75ea815" />
+<img width="608" height="744" alt="_MConverter eu_Gravação de Tela 2026-10-09 003352 (1)" src="https://github.com/user-attachments/assets/3301a09d-10da-4438-bbee-364348f8342f" />
 
 
 Break Unwavering Loyalty
