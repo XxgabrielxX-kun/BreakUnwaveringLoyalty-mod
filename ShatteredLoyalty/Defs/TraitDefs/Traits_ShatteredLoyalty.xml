@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- TRAÇO DA CONVERSA PSICOLÓGICA (Mantido) -->
+  <TraitDef>
+    <defName>MenteFraturada</defName>
+    <commonality>0</commonality>
+    <degreeDatas>
+      <li>
+        <degree>0</degree>
+        <label>mente fraturada</label>
+        <description>A mente deste indivíduo foi desconstruída psicologicamente. É instável e vulnerável a surtos.</description>
+        <statOffsets>
+          <MentalBreakThreshold>0.20</MentalBreakThreshold>
+        </statOffsets>
+        <statFactors>
+          <GlobalLearningFactor>0.4</GlobalLearningFactor>
+        </statFactors>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+
+  <ThoughtDef>
+    <defName>Thought_MenteFraturada</defName>
+    <workerClass>ThoughtWorker_AlwaysActive</workerClass>
+    <validWhileDespawned>true</validWhileDespawned>
+    <requiredTraits>
+      <li>MenteFraturada</li>
+    </requiredTraits>
+    <stages>
+      <li>
+        <label>mente fraturada</label>
+        <description>Tudo está confuso... fui quebrado.</description>
+        <baseMoodEffect>-15</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <!-- TRAÇO EXCLUSIVO DA TORTURA FÍSICA (Novo e mais grave) -->
+  <TraitDef>
+    <defName>TraumaDaTortura</defName>
+    <commonality>0</commonality>
+    <degreeDatas>
+      <li>
+        <degree>0</degree>
+        <label>mente mutilada</label>
+        <description>Este indivíduo sofreu tortura física extrema. Ficou permanentemente traumatizado, com tolerância à dor reduzida e surtos violentos constantes.</description>
+        <statOffsets>
+          <MentalBreakThreshold>0.35</MentalBreakThreshold> <!-- +35% na barra de surto -->
+          <PainShockThreshold>-0.15</PainShockThreshold> <!-- Entra em choque com menos dor -->
+        </statOffsets>
+        <statFactors>
+          <GlobalLearningFactor>0.2</GlobalLearningFactor> <!-- Aprende 80% mais devagar -->
+          <SocialImpact>0.5</SocialImpact>
+        </statFactors>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+
+  <ThoughtDef>
+    <defName>Thought_TraumaDaTortura</defName>
+    <workerClass>ThoughtWorker_AlwaysActive</workerClass>
+    <validWhileDespawned>true</validWhileDespawned>
+    <requiredTraits>
+      <li>TraumaDaTortura</li>
+    </requiredTraits>
+    <stages>
+      <li>
+        <label>trauma de tortura</label>
+        <description>O meu corpo dói e as memórias da dor não me deixam em paz... Não aguento isto.</description>
+        <baseMoodEffect>-25</baseMoodEffect> <!-- Penalidade massiva de -25 de humor -->
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Pensamento do Traço da Tortura Física -->
+  <Thought_TraumaDaTortura.stages.0.label>torture trauma</Thought_TraumaDaTortura.stages.0.label>
+  <Thought_TraumaDaTortura.stages.0.description>My body hurts and the memories of the pain won't leave me alone... I can't take this.</Thought_TraumaDaTortura.stages.0.description>
+
+  <!-- Pensamento do Traço da Conversa Psicológica -->
+  <Thought_MenteFraturada.stages.0.label>fractured mind</Thought_MenteFraturada.stages.0.label>
+  <Thought_MenteFraturada.stages.0.description>Everything is confusing... I was broken.</Thought_MenteFraturada.stages.0.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WorkGiver_BreakLoyalty.label>shatter loyalty</WorkGiver_BreakLoyalty.label>
+  <WorkGiver_BreakLoyalty.verb>talk to</WorkGiver_BreakLoyalty.verb>
+  <WorkGiver_BreakLoyalty.gerund>talking to</WorkGiver_BreakLoyalty.gerund>
+
+  <WorkGiver_TortureLoyalty.label>torture prisoner</WorkGiver_TortureLoyalty.label>
+  <WorkGiver_TortureLoyalty.verb>torture</WorkGiver_TortureLoyalty.verb>
+  <WorkGiver_TortureLoyalty.gerund>torturing</WorkGiver_TortureLoyalty.gerund>
+</LanguageData>

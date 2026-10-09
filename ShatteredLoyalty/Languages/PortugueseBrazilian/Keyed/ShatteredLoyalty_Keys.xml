@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- Menu de Opções -->
+  <ShatteredLoyalty_LosePassions>Destruir Paixões e Níveis de Habilidade</ShatteredLoyalty_LosePassions>
+  <ShatteredLoyalty_LosePassionsDesc>Determina se o prisioneiro perde paixões (foguinhos) e níveis de habilidade ao ter a mente quebrada.</ShatteredLoyalty_LosePassionsDesc>
+
+  <ShatteredLoyalty_GainTrait>Aplicar Traço 'Mente Fraturada' (Conversa)</ShatteredLoyalty_GainTrait>
+  <ShatteredLoyalty_GainTraitDesc>Se ativado, o prisioneiro ganha o traço "Mente Fraturada" após a desconstrução psicológica.</ShatteredLoyalty_GainTraitDesc>
+
+  <ShatteredLoyalty_GainTortureTrait>Aplicar Traço 'Mente Mutilada' (Tortura)</ShatteredLoyalty_GainTortureTrait>
+  <ShatteredLoyalty_GainTortureTraitDesc>Se ativado, o prisioneiro ganha o traço grave "Mente Mutilada" após sofrer tortura física.</ShatteredLoyalty_GainTortureTraitDesc>
+
+  <ShatteredLoyalty_ApplyCatatonia>Aplicar Colapso Catatónico</ShatteredLoyalty_ApplyCatatonia>
+  <ShatteredLoyalty_ApplyCatatoniaDesc>Determina se o prisioneiro entra em estado catatónico logo após a resistência chegar a zero.</ShatteredLoyalty_ApplyCatatoniaDesc>
+
+  <ShatteredLoyalty_BreakSpeed>Velocidade de Quebra da Resistência: {0}x</ShatteredLoyalty_BreakSpeed>
+  <ShatteredLoyalty_BreakSpeedDesc>Ajusta a velocidade com que a resistência dos prisioneiros é reduzida.</ShatteredLoyalty_BreakSpeedDesc>
+
+  <!-- Notificações e Cartas -->
+  <ShatteredLoyalty_LetterTitle>Lealdade Quebrada</ShatteredLoyalty_LetterTitle>
+  <ShatteredLoyalty_LetterDesc>{0} perdeu completamente a sua lealdade inabalável e agora pode ser recrutado!</ShatteredLoyalty_LetterDesc>
+
+  <ShatteredLoyalty_MessageBreak>[Shattered Loyalty] {0} reduziu a resistência de {1} para {2}.</ShatteredLoyalty_MessageBreak>
+  <ShatteredLoyalty_MessageTorture>[Shattered Loyalty] {0} torturou {1}, reduzindo a resistência para {2}.</ShatteredLoyalty_MessageTorture>
+</LanguageData>

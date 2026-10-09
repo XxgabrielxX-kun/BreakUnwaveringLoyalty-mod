@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <!-- WorkGiver Original (Conversa) -->
+  <WorkGiverDef>
+    <defName>WorkGiver_BreakLoyalty</defName>
+    <label>quebrar lealdade</label>
+    <giverClass>ShatteredLoyalty.WorkGiver_Warden_BreakLoyalty</giverClass>
+    <workType>Warden</workType>
+    <verb>conversar com</verb>
+    <gerund>conversando com</gerund>
+    <priorityInType>80</priorityInType>
+    <requiredCapacities>
+      <li>Talking</li>
+      <li>Hearing</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+
+  <!-- WorkGiver Novo (Tortura Física) -->
+  <WorkGiverDef>
+    <defName>WorkGiver_TortureLoyalty</defName>
+    <label>torturar prisioneiro</label>
+    <giverClass>ShatteredLoyalty.WorkGiver_Warden_Torture</giverClass>
+    <workType>Warden</workType>
+    <verb>torturar</verb>
+    <gerund>torturando</gerund>
+    <priorityInType>81</priorityInType>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+</Defs>

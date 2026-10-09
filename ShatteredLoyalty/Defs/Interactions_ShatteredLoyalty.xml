@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <!-- Modo Original (Psicológico / Conversa) -->
+  <PrisonerInteractionModeDef>
+    <defName>QuebrarLealdade</defName>
+    <label>quebrar lealdade</label>
+    <description>O carcereiro tentará desconstruir psicologicamente a lealdade inabalável deste prisioneiro.\n\nÉ um processo árduo. Quando a resistência chegar a zero, o prisioneiro perderá sua lealdade, mas sofrerá danos permanentes (Mente Fraturada, perda de vontades) e entrará em catatonia.</description>
+    <listOrder>60</listOrder>
+  </PrisonerInteractionModeDef>
+
+  <!-- Modo Novo (Tortura Física) -->
+  <PrisonerInteractionModeDef>
+    <defName>TorturarPrisioneiro</defName>
+    <label>tortura física</label>
+    <description>O carcereiro usará de métodos físicos brutais para quebrar a lealdade inabalável deste prisioneiro.\n\nReduz a resistência com o dobro da velocidade e causa hematomas, mas tem maior chance de destruir as paixões de habilidade do prisioneiro e causa catatonia garatida ao quebrar.</description>
+    <listOrder>61</listOrder>
+  </PrisonerInteractionModeDef>
+</Defs>

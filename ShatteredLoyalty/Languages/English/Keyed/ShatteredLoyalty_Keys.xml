@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- Menu Settings -->
+  <ShatteredLoyalty_LosePassions>Destroy Passions &amp; Skill Levels</ShatteredLoyalty_LosePassions>
+  <ShatteredLoyalty_LosePassionsDesc>If enabled, the prisoner loses skill passions and skill levels when their mind breaks.</ShatteredLoyalty_LosePassionsDesc>
+
+  <ShatteredLoyalty_GainTrait>Apply 'Fractured Mind' Trait (Conversation)</ShatteredLoyalty_GainTrait>
+  <ShatteredLoyalty_GainTraitDesc>If enabled, the prisoner gains a permanent unstable trait upon psychological deconstruction.</ShatteredLoyalty_GainTraitDesc>
+
+  <ShatteredLoyalty_GainTortureTrait>Apply 'Mutilated Mind' Trait (Torture)</ShatteredLoyalty_GainTortureTrait>
+  <ShatteredLoyalty_GainTortureTraitDesc>If enabled, the prisoner gains the severe 'Mutilated Mind' trait after physical torture.</ShatteredLoyalty_GainTortureTraitDesc>
+
+  <ShatteredLoyalty_ApplyCatatonia>Apply Catatonic Breakdown</ShatteredLoyalty_ApplyCatatonia>
+  <ShatteredLoyalty_ApplyCatatoniaDesc>If enabled, the prisoner falls into catatonia right after their mind breaks.</ShatteredLoyalty_ApplyCatatoniaDesc>
+
+  <ShatteredLoyalty_BreakSpeed>Resistance Break Speed: {0}x</ShatteredLoyalty_BreakSpeed>
+  <ShatteredLoyalty_BreakSpeedDesc>Adjusts the speed at which prisoner resistance is reduced.</ShatteredLoyalty_BreakSpeedDesc>
+
+  <!-- Notifications & Letters -->
+  <ShatteredLoyalty_LetterTitle>Loyalty Shattered</ShatteredLoyalty_LetterTitle>
+  <ShatteredLoyalty_LetterDesc>{0} has completely lost their unwavering loyalty and can now be recruited!</ShatteredLoyalty_LetterDesc>
+
+  <ShatteredLoyalty_MessageBreak>[Shattered Loyalty] {0} reduced {1}'s resistance to {2}.</ShatteredLoyalty_MessageBreak>
+  <ShatteredLoyalty_MessageTorture>[Shattered Loyalty] {0} tortured {1}, reducing resistance to {2}.</ShatteredLoyalty_MessageTorture>
+</LanguageData>

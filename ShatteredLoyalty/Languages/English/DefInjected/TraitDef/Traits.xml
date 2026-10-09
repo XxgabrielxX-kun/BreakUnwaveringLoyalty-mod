@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MenteFraturada.degreeDatas.0.label>fractured mind</MenteFraturada.degreeDatas.0.label>
+  <MenteFraturada.degreeDatas.0.description>This person's mind was psychologically deconstructed. They are permanently unstable and prone to violent mental breaks.</MenteFraturada.degreeDatas.0.description>
+
+  <TraumaDaTortura.degreeDatas.0.label>mutilated mind</TraumaDaTortura.degreeDatas.0.label>
+  <TraumaDaTortura.degreeDatas.0.description>This person suffered extreme physical torture. They are permanently traumatized, with reduced pain tolerance and frequent violent breaks.</TraumaDaTortura.degreeDatas.0.description>
+</LanguageData>
